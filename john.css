@@ -1,0 +1,22 @@
+h1{
+    color: blue ;
+    border:40px black dotted;
+    text-align: center;
+    font-size:50px;
+    padding: 30px;
+}
+p{
+    color:red;
+    size:50px;
+    text-align: center;
+}
+ul{
+    list-style-type:none;
+    display:flex;
+}
+li{
+    padding: 30px;
+}
+div{
+    background-color:goldenrod;(135,160,146,);
+}
